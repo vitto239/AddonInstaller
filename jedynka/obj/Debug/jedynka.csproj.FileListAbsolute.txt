@@ -24,3 +24,17 @@ D:\OneDrive\C#Aplikacje\MILO\jedynka\jedynka\obj\Debug\jedynka.g.resources
 D:\OneDrive\C#Aplikacje\MILO\jedynka\jedynka\obj\Debug\jedynka.Properties.Resources.resources
 D:\OneDrive\C#Aplikacje\MILO\jedynka\jedynka\obj\Debug\jedynka.csproj.GenerateResource.cache
 D:\OneDrive\C#Aplikacje\MILO\jedynka\jedynka\obj\Debug\jedynka.csproj.CoreCompileInputs.cache
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\bin\Debug\jedynka.exe
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\bin\Debug\jedynka.pdb
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka.csprojAssemblyReference.cache
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\MainWindow.g.cs
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\App.g.cs
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka_MarkupCompile.cache
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka_MarkupCompile.lref
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\MainWindow.baml
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka.g.resources
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka.Properties.Resources.resources
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka.csproj.GenerateResource.cache
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka.csproj.CoreCompileInputs.cache
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka.exe
+D:\OneDriveVitto239\OneDrive\GitHubRepo\app\AddonInstaller\jedynka\obj\Debug\jedynka.pdb

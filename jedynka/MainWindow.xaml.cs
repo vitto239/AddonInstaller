@@ -58,6 +58,7 @@ namespace jedynka
 
         private void btnAction_Click(object sender, RoutedEventArgs e)
         {
+            Net48InstallClass.instaled = false; // na potrzeby testów
             if (Net48InstallClass.instaled && SqlInstallClass.instaled) { NextStep(); }
             foreach (var item in ListItems)
             {   
@@ -68,11 +69,7 @@ namespace jedynka
                         item.proBar.Visibility = !item.instaled ? Visibility.Visible : Visibility.Hidden;
                         DownloadItem(item);
                         
-                    }
-                    else
-                    {
-                        item.Extract(item);
-                    }
+                    }                    
                 }
             }
         }
@@ -86,8 +83,8 @@ namespace jedynka
 
         private void WebDownloader_DownloadFileCompleted(object sender, AsyncCompletedEventArgs e, AbstractMasterClass item)
         {
-            //ExtractItem(item);
-            item.Extract(item);
+            
+            
         }
 
         private void WebDownloader_DownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e, AbstractMasterClass item)
